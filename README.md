@@ -6,6 +6,8 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
+Slides, Data Sets, Figures https://www.statlearning.com/resources-python
+
 ## Authors
 
 - Trevor Hastie
