@@ -6,8 +6,6 @@
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Slides, Data Sets, Figures https://www.statlearning.com/resources-python
-
 ## Authors
 
 - Trevor Hastie
@@ -21,6 +19,8 @@ Slides, Data Sets, Figures https://www.statlearning.com/resources-python
 - Daniela Witten
 
 ### ISLP
+
+Slides, Data Sets, Figures https://www.statlearning.com/resources-python
 
 Please ensure you have followed the installation instructions for
 [ISLP](https://github.com/intro-stat-learning/ISLP). This will address
